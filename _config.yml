@@ -13,7 +13,7 @@ title                    : "Hyunjung Lee / Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Hyunjung Lee"
 description              : &description "I am a fifth-year Ph.D. Candidate in Agricultural and Resource Economics at UC Davis and I am currently on the Job Market!"
-url                      : hyunjung-aglee.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://hyunjung-aglee.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hyunjung-aglee.github.io"
 
