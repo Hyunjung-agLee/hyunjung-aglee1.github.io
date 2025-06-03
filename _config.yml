@@ -22,7 +22,7 @@ repository               : "Hyunjung-agLee/hyunjung-aglee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hlee_profile.jpeg"
+  avatar           : "hlee_profile.png"
   name             : "Hyunjung Lee"
   pronouns         : # example: "she/her"  
   bio              : "I am a fifth-year Ph.D. Candidate in Agricultural and Resource Economics at UC Davis and I am currently on the Job Market!"
