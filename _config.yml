@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hyunjung Lee, Ph.D. Candidate"
+title                    : "Hyunjung Lee"
 title_separator          : "-"
 name                     : &name "Hyunjung Lee"
 description              : &description "I am a fifth-year Ph.D. Candidate in Agricultural and Resource Economics at UC Davis and I am currently on the Job Market!"
