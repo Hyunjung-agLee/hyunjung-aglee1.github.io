@@ -1,5 +1,5 @@
 ---
-title: "ARE 100A Intermediate Microeconomics"
+title: "Teaching"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
